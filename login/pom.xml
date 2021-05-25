@@ -18,7 +18,7 @@
     <spring.version>4.1.7.RELEASE</spring.version>
 		<java.version>11</java.version>
 		 <springsecurity.version>5.4.2</springsecurity.version>
-        <springsecurityoauth2.version>2.2.3.RELEASE</springsecurityoauth2.version>
+        <springsecurityoauth2.version>2.2.5.RELEASE</springsecurityoauth2.version>
 	</properties>
 	<dependencies>
 		<dependency>
